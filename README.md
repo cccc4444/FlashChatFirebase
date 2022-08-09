@@ -4,12 +4,12 @@ This app uses FireBase email authentification for 2 people to chat. Was created 
 ## Screenshots
   <table align = "center">
   <tr>
-       <td><img src="https://user-images.githubusercontent.com/30757557/183648847-742e489e-bfe9-449f-abdc-abfb69df36bc.mp4" width="400"></td>
-       <td><img src="https://user-images.githubusercontent.com/30757557/183648866-57dc1ff7-acef-4450-8afc-91803338c6f2.mp4" width="200"></td>
+       <td><img src="https://user-images.githubusercontent.com/30757557/183657961-ff153d3c-0cd0-4485-aeb4-0b153220aa7a.gif" width="400"></td>
+       <td><img src="https://user-images.githubusercontent.com/30757557/183658886-005f6bfd-096e-489c-81bc-096e16923188.gif" width="200"></td>
   </tr>
  </table>
 
 ### Features
 - FireBase
-- CltypingLabel, IQKryboardManager pods
+- CLtypingLabel, IQKryboardManager pods
 
