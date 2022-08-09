@@ -335,6 +335,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="Q5u-eL-Bgp">
                         <barButtonItem key="rightBarButtonItem" title="Log Out" id="wlC-3n-gtb">
+                            <color key="tintColor" name="BrandBlue"/>
                             <connections>
                                 <action selector="logOutPressed:" destination="lwd-AH-u8E" id="Kf7-lH-ohb"/>
                             </connections>
@@ -357,6 +358,7 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="9eH-jJ-MJd">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="tintColor" red="0.95672616909999997" green="0.95550011059999995" blue="0.97691629930000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
